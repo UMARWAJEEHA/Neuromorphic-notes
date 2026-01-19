@@ -31,7 +31,3 @@ improve power efficiency and enable real-time intelligent systems.
 - How scalable is this architecture for commercial systems?
 - What are the trade-offs compared to GPU-based accelerators?
 
-## Architecture Diagram
-
-![Neuromorphic Architecture](../diagrams/neuromorphic_architecture.png)
-
