@@ -1,5 +1,4 @@
-# Neuromorphic-notes
-Research notes on neuromorphic computing, AI hardware, and electronics-driven intelligent systems
+
 # Neuromorphic Notes
 
 This repository documents my **research-oriented study and technical notes** on
