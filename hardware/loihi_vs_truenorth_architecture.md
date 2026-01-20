@@ -1,6 +1,4 @@
-# Loihi vs TrueNorth: Architecture Comparison
 
-![Loihi vs TrueNorth Architecture](loihi_vs_truenorth_architecture.png)
 
 This document highlights key architectural differences between
 **Intel Loihi** and **IBM TrueNorth**, focusing on hardware design
