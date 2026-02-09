@@ -1,1 +1,3 @@
+FPGA, with parallel processing capabilities similar to the brain, lower latency and power consumption, and higher throughput, is highly eligible hardware for assisting in the development of spiking neural networks. 
 
+ Spiking neural networks (SNNs), which mimic the brain by encoding and processing data as electrical pulses, or spikes, have the potential to drive down the energy cost of neural networks by reducing data bottlenecks through sparse activations and event-triggered computation, along with reduced bit-widths which simplify computation (Eshraghian et al., 2023, Liang et al., 2021, Maass, 1997)
