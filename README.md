@@ -18,10 +18,12 @@ The goal of this repository is to:
 - Hardware-focused insights (FPGA, mixed-signal, ASIC)
 - Notes aligned with PhD-level research preparation
 
-## Recent Papers Summarized
 
+## Recent Papers Summarized
 
 ### 2025
 - [Spiking Neural Networks on FPGA: A Survey of Methodologies and Recent Advancements](papers/2025/event-driven-snn-fpga.md)
 - [A Robust, Open‑Source Framework for Spiking Neural Networks on Low‑End FPGAs](papers/2025/snn-framework-low-end-fpga.md)
+- [SpikeExplorer: Hardware‑Oriented Design Space Exploration for Spiking Neural Networks on FPGA](papers/2025/spikexplorer-design-space-snn-fpga.md)
+
 
