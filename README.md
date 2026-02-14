@@ -26,4 +26,3 @@ The goal of this repository is to:
 - [A Robust, Open‑Source Framework for Spiking Neural Networks on Low‑End FPGAs](papers/2025/snn-framework-low-end-fpga.md)
 - [SpikeExplorer: Hardware‑Oriented Design Space Exploration for Spiking Neural Networks on FPGA](papers/2025/spikexplorer-design-space-snn-fpga.md)
 
-
