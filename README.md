@@ -20,6 +20,8 @@ The goal of this repository is to:
 
 ## Recent Papers Summarized
 
-- **2025**  
-  - [Spiking Neural Networks on FPGA: A Survey of Methodologies and Recent Advancements](papers/2025/event-driven-snn-fpga.md)
+
+### 2025
+- [Spiking Neural Networks on FPGA: A Survey of Methodologies and Recent Advancements](papers/2025/event-driven-snn-fpga.md)
+- [A Robust, Open‑Source Framework for Spiking Neural Networks on Low‑End FPGAs](papers/2025/snn-framework-low-end-fpga.md)
 
