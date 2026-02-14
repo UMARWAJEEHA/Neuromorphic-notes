@@ -18,4 +18,8 @@ The goal of this repository is to:
 - Hardware-focused insights (FPGA, mixed-signal, ASIC)
 - Notes aligned with PhD-level research preparation
 
+## Recent Papers Summarized
+
+- **2025**  
+  - [Spiking Neural Networks on FPGA: A Survey of Methodologies and Recent Advancements](papers/2025/event-driven-snn-fpga.md)
 
