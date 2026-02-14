@@ -8,7 +8,16 @@
 What limitation does this paper solve?
 
 ## Key Idea
-Explain the core contribution in your own words (no copy-paste).
+## Key Idea
+Previous SNN implementations on FPGA often process spikes in fixed time steps,
+which wastes power when there is little neural activity.
+
+This paper proposes an event-driven hardware architecture where computation
+only occurs when spikes arrive.
+
+By removing unnecessary clocked operations, the design significantly reduces
+power consumption while maintaining real-time performance.
+
 
 ## Hardware Perspective
 - Is it FPGA / ASIC / mixed-signal?
