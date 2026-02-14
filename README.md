@@ -15,3 +15,7 @@ The goal of this repository is to:
 - Summarize key research papers in my own words
 - Highlight **hardware and architectural insights**
 - Build a structured knowledge base for future research and development work
+- Hardware-focused insights (FPGA, mixed-signal, ASIC)
+- Notes aligned with PhD-level research preparation
+
+
