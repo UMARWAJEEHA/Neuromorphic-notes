@@ -24,7 +24,7 @@ The goal of this repository is to:
 ### 2025
 - [Spiking Neural Networks on FPGA: A Survey of Methodologies and Recent Advancements](papers/2025/event-driven-snn-fpga.md)
 - [A Robust, Open‑Source Framework for Spiking Neural Networks on Low‑End FPGAs](papers/2025/snn-framework-low-end-fpga.md)
-- [SpikeExplorer: Hardware‑Oriented Design Space Exploration for Spiking Neural Networks on FPGA](papers/2025/spikexplorer-design-space-snn-fpga.md)
+
 
 ### 2024
 - [SpikeExplorer: Hardware‑Oriented Design Space Exploration for Spiking Neural Networks on FPGA](papers/2024/spikexplorer-design-space-snn-fpga.md)
